@@ -19,12 +19,9 @@
 
 - 📫 Social:<br>
 <div>
-        <a target="_blank" href="https://twitter.com/vigas__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter"></a>
-       <a target="_blank" href="https://instagram.com/vigas__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
-        <a target="_blank" href="https://www.linkedin.com/in/vivaldo-gaston-a0615920b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin"></a>
+        <a target="_blank" href="https://twitter.com/axole_ma"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter"></a>
+       <a target="_blank" href="https://instagram.com/axole_mar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
+        <a target="_blank" href="https://www.linkedin.com/in/axole-maranjana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin"></a>
   <a target="_blank" href="https://youtube.com/c/programandocomvigas"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" alt="Youtube"></a>
         
-[![Snake animation](https://github.com/Axolem/Axolem/blob/output/github-contribution-grid-snake.svg)  ]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axolem)]
-[![Axolem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Axolem)]
 </div>

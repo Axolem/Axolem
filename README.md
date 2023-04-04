@@ -1,11 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
+### Stats:📫 <br>
 <div>
         <a href="https://github.com/Axolem"></a>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?&username=Axolem&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
         <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&langs_count=16&theme=dark">
 </div>
 
+### Frameworks:📫 <br>
 <div style="display: inline-block;"> <br>
         <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
@@ -17,7 +19,7 @@
  
 </div>
 
-- 📫 Social:<br>
+### Socials:📫 <br>
 <div>
         <a target="_blank" href="https://twitter.com/axole_ma"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter"></a>
        <a target="_blank" href="https://instagram.com/axole_mar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>

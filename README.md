@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love learning new frameworks, creating cool projects, and sharing my code on GitHub. I also enjoy kayaking, running, and listening to music. Some people say I'm a desperate housewife, but I prefer to think of myself as an adventurous coder.
 
@@ -10,19 +10,18 @@ I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love lea
 - Being a PRO member of GitHub (I paid for it, so I might as well use it)
 - Having 6 stars (I'm not famous, but I'm working on it)
 
-### Stats:📈
-<div>
-        <a href="https://github.com/Axolem"></a>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?&username=Axolem&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-        <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&langs_count=16&theme=dark">
+## 📈 Stats
+
+![](https://github-readme-stats.vercel.app/api?&username=Axolem&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&langs_count=16&theme=dark)
         
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&theme=radical)
         
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Axolem&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Axolem&theme=rogue) 
-        
-</div>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Axolem&theme=rogue)      
+
 These are my stats. They are not impressive, but they are honest.
 
 

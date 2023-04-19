@@ -11,15 +11,17 @@ I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love lea
 - Having 6 stars (I'm not famous, but I'm working on it)
 
 ## 📈 Stats
-
+<div>
 ![](https://github-readme-stats.vercel.app/api?&username=Axolem&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&langs_count=16&theme=dark)
-        
+</div>
+
+<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&theme=radical)
         
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Axolem&theme=radical)
-
+</div>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Axolem&theme=rogue)      
 
 These are my stats. They are not impressive, but they are honest.
@@ -41,7 +43,7 @@ These are my stats. They are not impressive, but they are honest.
 
 ## 📫 How to reach me
 
-You can find me on [Twitter](https://twitter.com/axole_ma), [LinkedIn](https://www.linkedin.com/in/axole-maranjana-8a0a1a1b9/), and [Medium](https://axolem.medium.com/).
+You can find me on [Twitter](https://twitter.com/axole_ma), [LinkedIn](https://www.linkedin.com/in/axole-maranjana-8a0a1a1b9/), and [Yeah]().
 
 Or you can send me an email at axolemaranjana@gmail.com.
 

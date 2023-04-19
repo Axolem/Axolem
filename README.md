@@ -12,16 +12,21 @@ I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love lea
 
 ## 📈 Stats
 <div style="display:'flex'; flex-direction:'row';">
+        
 ![](https://github-readme-stats.vercel.app/api?&username=Axolem&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&langs_count=16&theme=dark)
+        
 </div>
 
 <div style="display:'flex'; flex-direction:'row';">
+        
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&theme=radical)
         
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Axolem&theme=radical)
+        
 </div>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Axolem&theme=rogue)      
 
 These are my stats. They are not impressive, but they are honest.

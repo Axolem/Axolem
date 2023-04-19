@@ -11,13 +11,13 @@ I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love lea
 - Having 6 stars (I'm not famous, but I'm working on it)
 
 ## 📈 Stats
-<div>
+<div style="display:'flex'; flex-direction:'row';">
 ![](https://github-readme-stats.vercel.app/api?&username=Axolem&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&langs_count=16&theme=dark)
 </div>
 
-<div>
+<div style="display:'flex'; flex-direction:'row';">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&theme=radical)
         
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Axolem&theme=radical)

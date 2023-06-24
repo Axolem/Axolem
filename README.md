@@ -24,9 +24,7 @@ I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love lea
         
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&theme=radical)
         
-</div>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Axolem&theme=rogue)      
+</div>    
 
 These are my stats. They are not impressive, but they are honest.
 

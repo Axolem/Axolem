@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love learning new frameworks, creating cool projects, and sharing my code on GitHub. I also enjoy kayaking, running, and listening to music. Some people say I'm a desperate housewife, but I prefer to think of myself as an adventurous coder.
+I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love learning new frameworks, creating cool projects, and sharing my code on GitHub. I also enjoy kayaking, running, and listening to music. Some people say I'm a housewife, but I prefer to think of myself as an adventurous coder.
 
 ## 🏆 My achievements
 
@@ -22,8 +22,6 @@ I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love lea
 <div style="display:'flex'; flex-direction:'row';">
         
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&theme=radical)
-        
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Axolem&theme=radical)
         
 </div>
 
@@ -50,9 +48,9 @@ These are my stats. They are not impressive, but they are honest.
 
 You can find me on [Twitter](https://twitter.com/axole_ma), [LinkedIn](https://www.linkedin.com/in/axole-maranjana-8a0a1a1b9/), and [Yeah]().
 
-Or you can send me an email at axolemaranjana@gmail.com.
+Or you can send me an email at axolemaranjana4@gmail.com.
 
-But please don't spam me or send me weird stuff. I have enough of that in my life.
+But please don't spam me or send me weird stuff. I have had enough of that in my life.
 
 ## 🎙️ My slogan
 

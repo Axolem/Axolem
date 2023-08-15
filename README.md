@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love learning new frameworks, creating cool projects, and sharing my code on GitHub. I also enjoy kayaking, running, and listening to music. Some people say I'm a housewife, but I prefer to think of myself as an adventurous coder.
+I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love learning new frameworks, creating cool projects, and sharing my code on GitHub. I also enjoy kayaking, running, and listening to music. I think of myself as an adventurous coder.
 
 ## 🏆 My achievements
 

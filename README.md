@@ -5,10 +5,16 @@ I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love lea
 ## 🏆 My achievements
 
 - Building a [task tracker app](https://github.com/Axolem/task-tracker) with React (it's not perfect, but it works)
-- Contributing to 17 repositories on GitHub (some of them are mine, some of them are not)
+- Contributing to 20 repositories on GitHub (some of them are mine, some of them are not)
 - Having 798 contributions in the last year (I don't have a life, okay?)
 - Being a PRO member of GitHub (I paid for it, so I might as well use it)
-- Having 6 stars (I'm not famous, but I'm working on it)
+- Having 3 followers (I'm not famous, but I'm working on it)
+
+## 🚀 Things I maintain
+1. [React Native Ozow](https://www.npmjs.com/package/react-native-ozow)
+2. [React Native Payfast Plugin](https://www.npmjs.com/package/react-native-payfast-plugin)
+3. My PC 💻
+4. And other things outside coding...
 
 ## 📈 Stats
 <div style="display:'flex'; flex-direction:'row';">
@@ -34,11 +40,8 @@ These are my stats. They are not impressive, but they are honest.
 - C# (it's king, don't @ me)
 - JavaScript (it's everywhere, so I have to learn it)
 - React (it's cool, but it makes me cry sometimes)
-- HTML (it's easy, but it's also boring)
-- CSS (it's hard, but it's also fun)
 - ASP.NET Core (it's fast, powerful, and cross-platform)
-- MongoDB (it's flexible, scalable, and easy to use)
-- GraphQL (it's a better way to query data than REST)
+- MySQL (it's flexible, scalable, and easy to use)
 - TypeScript (it's JavaScript with types, what's not to love?)
 - Tailwind CSS (it's a utility-first framework that makes styling a breeze)
 

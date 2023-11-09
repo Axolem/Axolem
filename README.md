@@ -6,7 +6,7 @@ I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love lea
 
 - Building a [task tracker app](https://github.com/Axolem/task-tracker) with React (it's not perfect, but it works)
 - Contributing to 20 repositories on GitHub (some of them are mine, some of them are not)
-- Having 798 contributions in the last year (I don't have a life, okay?)
+- Having 1,565 contributions in the last year (I don't have a life, okay?)
 - Being a PRO member of GitHub (I paid for it, so I might as well use it)
 - Having 3 followers (I'm not famous, but I'm working on it)
 

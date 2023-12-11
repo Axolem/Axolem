@@ -30,7 +30,9 @@ I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love lea
         
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axolem&layout=compact&theme=radical)
         
-</div>    
+</div>   
+
+<img src="https://stats.quine.sh/axolem/dependencies?theme=dark"/>
 
 These are my stats. They are not impressive, but they are honest.
 

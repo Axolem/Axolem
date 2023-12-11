@@ -32,7 +32,7 @@ I'm Axole Maranjana, a C# enthusiast and an explorer of the IT world. I love lea
         
 </div>   
 
-<img src="https://stats.quine.sh/axolem/dependencies?theme=dark"/>
+![Dependencies](https://stats.quine.sh/Axolem/dependencies?theme=dark)
 
 These are my stats. They are not impressive, but they are honest.
 
